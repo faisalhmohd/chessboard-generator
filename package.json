@@ -1,19 +1,29 @@
 {
-  "name": "nodechessboard",
-  "version": "1.0.0",
-  "description": "Printing out your own chessboard",
+  "name": "chessboard-generator",
+  "version": "1.0.1",
+  "description": "Generating chessboard with swag.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "chess",
-    "board"
+    "board",
+    "dynamic"
   ],
   "author": "Mohammad Faisal",
   "license": "ISC",
   "dependencies": {
     "async": "^1.5.0",
     "yargs": "^3.31.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalmohd/chessboard-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/faisalmohd/chessboard-generator/issues"
+  },
+  "homepage": "https://github.com/faisalmohd/chessboard-generator#readme"
 }
