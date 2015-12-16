@@ -15,6 +15,13 @@ $ npm i chessboard-generator
 ```sh
 $ node app -x {columns} -y {rows}
 $ node app -x 5 -y 6
+# # #
+ # #
+# # #
+ # #
+# # #
+ # #
+# # #
 ```
 
 License
