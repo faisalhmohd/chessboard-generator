@@ -7,14 +7,14 @@ Generating chessboard with *swag*.
 Requires NodeJS and NPM:
 
 ```sh
-$ npm i chessboard-generator
+$ npm i -g chessboard-generator
 ```
 
 ### Usage
 
 ```sh
-$ node app -x {columns} -y {rows}
-$ node app -x 5 -y 6
+$ chessboard -x {columns} -y {rows}
+$ chessboard -x 5 -y 6
 # # #
  # #
 # # #

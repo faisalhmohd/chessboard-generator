@@ -1,6 +1,6 @@
 {
   "name": "chessboard-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generating chessboard with swag.",
   "main": "app.js",
   "scripts": {
@@ -16,6 +16,9 @@
   "dependencies": {
     "async": "^1.5.0",
     "yargs": "^3.31.0"
+  },
+  "bin": {
+  "chessboard": "app.js"
   },
   "devDependencies": {},
   "repository": {
