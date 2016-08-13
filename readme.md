@@ -13,7 +13,7 @@ $ npm i -g chessboard-generator
 ### Usage
 
 ```sh
-$ chessboard -x {columns} -y {rows}
+$ chessboard -x <columns> -y <rows>
 $ chessboard -x 5 -y 6
 # # #
  # #
